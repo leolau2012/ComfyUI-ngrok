@@ -7,7 +7,7 @@ from comfy.cli_args import args
 # Your Authtoken can be found at https://dashboard.ngrok.com/get-started/your-authtoken
 # Don't forget to enclose it in quotation marks!
 # Example:
-# ngrok_token = "DuMMyTOk3n38ty38nhbvgjbb_HEhdpnojhrbdpnrmE0jt"
+# ngrok_token = "2iESQMb1paUFk2xP7yFexlIhqgH_3jQWHNdGpnz15vbWDTVFL"
 
 ngrok_token = None
 
